@@ -1,7 +1,7 @@
-> ![WARNING]
+> [!WARNING]
 > This repository has stopped updating since 12/2023. Please consider using my [new repository](https://github.com/Yuzuk1Shimotsuki/discord-app-2023) with more powerful functions.
 
-> ![NOTE]
+> [!NOTE]
 >  This repository has been archived on 02/02/2025
 
 # Repository Details
