@@ -1,3 +1,9 @@
+> ![WARNING]
+> This repository has stopped updating since 12/2023. Please consider using my [new repository](https://github.com/Yuzuk1Shimotsuki/discord-app-2023) with more powerful functions.
+
+> ![NOTE]
+>  This repository has been archived on 02/02/2025
+
 # Repository Details
 
 This repository is part of the [Discord.py 2.x](https://discordpy.readthedocs.io/en/stable/) series on youtube, that you can find here as a playlist:
